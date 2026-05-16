@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://alephstudio.site/img/main.png" alt="ALEPHSTUDIO" width="100%" />
-
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=500&size=24&duration=3800&pause=1200&color=C9C9C9&center=true&vCenter=true&width=640&lines=ALEPHSTUDIO;Creative+Web+Studio;Full-Stack+Developer;Seoul+%C2%B7+Global" alt="Typing animation" />
-
-<br />
+# ALEPHSTUDIO
 
 **Aleph Studio | Full-Stack Developer**
 
@@ -100,17 +94,6 @@
 | [L'ART DE LA](https://alephstudio.site/lartdela.html) | Luxury · Brand Site |
 | [Circle Chronograph](https://alephstudio.site/circlechronograph.html) | Product · UI |
 | [ALEXANDER](https://alephstudio.site/Alexander.html) | Portfolio Web Design |
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alephstudio&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C9C9C9&icon_color=C9C9C9&text_color=9CA3AF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alephstudio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C9C9C9&text_color=9CA3AF" alt="Top languages" />
-
-</div>
 
 ---
 
