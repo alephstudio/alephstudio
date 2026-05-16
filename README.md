@@ -1,6 +1,8 @@
 <div align="center">
 
-# ALEPHSTUDIO
+<img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=500&size=28&duration=3800&pause=1200&color=C9C9C9&center=true&vCenter=true&width=640&lines=ALEPHSTUDIO;Creative+Web+Studio;Full-Stack+Developer;Seoul+%C2%B7+Global" alt="ALEPHSTUDIO" />
+
+<br />
 
 **Aleph Studio | Full-Stack Developer**
 
